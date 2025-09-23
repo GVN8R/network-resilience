@@ -1,0 +1,35 @@
+# Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/*
+!data/README.md
+
+# Results
+results/*
+!results/README.md
+
+# OS
+.DS_Store
+Thumbs.db 
+
+# IDE/Settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment files
+.env
